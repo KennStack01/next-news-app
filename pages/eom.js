@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "../styles/EOM.module.css";
-import { Toolbar } from "../components/toolbar";
+import Toolbar from "../components/toolbar";
 
 const EOM = ({ employee }) => {
   console.log(employee);
